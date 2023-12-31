@@ -95,6 +95,9 @@
     
   </body>
 </html>
+
+STYLE.CSS
+
 /* Import Google font - Open Sans */
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;500;600;700&display=swap');
 * {
@@ -269,6 +272,11 @@ h1 {
     font-size: 1.35rem;
   }
 }
+
+SCRIPT.JS
+
+
+
 const cityInput = document.querySelector(".city-input");
 const searchButton = document.querySelector(".search-btn");
 const locationButton = document.querySelector(".location-btn");
